@@ -1,0 +1,439 @@
+[
+  {
+    "id": "f593f041-7c88-49ae-8bb8-9fdc94f47622",
+    "playerId": "ac1e3e63-196b-4a6b-824c-2a339e9c04c1",
+    "playerName": "daniel",
+    "playerRolls": [
+      4,
+      6,
+      5,
+      4,
+      6
+    ],
+    "playerTotal": 25,
+    "computerRolls": [
+      5,
+      6,
+      4,
+      3,
+      1
+    ],
+    "computerTotal": 19,
+    "winner": "player",
+    "completedAt": "2025-06-11T11:52:24.187Z"
+  },
+  {
+    "id": "fab7ddfa-c092-42e9-bf3e-a8a81b6e5aca",
+    "playerId": "ac1e3e63-196b-4a6b-824c-2a339e9c04c1",
+    "playerName": "daniel",
+    "playerRolls": [
+      2,
+      4,
+      6,
+      1,
+      4
+    ],
+    "playerTotal": 17,
+    "computerRolls": [
+      4,
+      5,
+      6,
+      4,
+      1
+    ],
+    "computerTotal": 20,
+    "winner": "computer",
+    "completedAt": "2025-06-11T11:53:41.947Z"
+  },
+  {
+    "id": "ec2358af-8699-4f18-a94e-d2a319b30668",
+    "playerId": "ac1e3e63-196b-4a6b-824c-2a339e9c04c1",
+    "playerName": "daniel",
+    "playerRolls": [
+      2,
+      5,
+      5,
+      6,
+      5
+    ],
+    "playerTotal": 23,
+    "computerRolls": [
+      1,
+      6,
+      1,
+      6,
+      2
+    ],
+    "computerTotal": 16,
+    "winner": "player",
+    "completedAt": "2025-06-11T11:53:48.358Z"
+  },
+  {
+    "id": "0303cec9-4fc8-42b3-aaf6-d17afb4b4cc8",
+    "playerId": "ac1e3e63-196b-4a6b-824c-2a339e9c04c1",
+    "playerName": "daniel",
+    "playerRolls": [
+      6,
+      1,
+      4,
+      3,
+      1
+    ],
+    "playerTotal": 15,
+    "computerRolls": [
+      4,
+      6,
+      4,
+      6,
+      3
+    ],
+    "computerTotal": 23,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:00:29.700Z"
+  },
+  {
+    "id": "8beaabeb-1bef-42cc-b11c-579df0ec9168",
+    "playerId": "ac1e3e63-196b-4a6b-824c-2a339e9c04c1",
+    "playerName": "daniel",
+    "playerRolls": [
+      4,
+      5,
+      2,
+      1,
+      5
+    ],
+    "playerTotal": 17,
+    "computerRolls": [
+      1,
+      2,
+      6,
+      5,
+      2
+    ],
+    "computerTotal": 16,
+    "winner": "player",
+    "completedAt": "2025-06-11T12:00:34.946Z"
+  },
+  {
+    "id": "5b031eaa-f311-4792-89db-b6d743a9290b",
+    "playerId": "5d0bc724-5c20-4232-9f4f-2956b9a3385e",
+    "playerName": "janusz",
+    "playerRolls": [
+      6,
+      1,
+      6,
+      5,
+      6
+    ],
+    "playerTotal": 24,
+    "computerRolls": [
+      6,
+      3,
+      4,
+      2,
+      2
+    ],
+    "computerTotal": 17,
+    "winner": "player",
+    "completedAt": "2025-06-11T12:01:22.538Z"
+  },
+  {
+    "id": "cae775a3-fb66-417b-b09c-57aae27d7817",
+    "playerId": "5d0bc724-5c20-4232-9f4f-2956b9a3385e",
+    "playerName": "janusz",
+    "playerRolls": [
+      6,
+      1,
+      6,
+      6,
+      2
+    ],
+    "playerTotal": 21,
+    "computerRolls": [
+      3,
+      6,
+      2,
+      5,
+      5
+    ],
+    "computerTotal": 21,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:01:31.308Z"
+  },
+  {
+    "id": "cf0b3db3-dd4c-4dbb-a467-82119ad9f4bc",
+    "playerId": "5d0bc724-5c20-4232-9f4f-2956b9a3385e",
+    "playerName": "janusz",
+    "playerRolls": [
+      5,
+      6,
+      6,
+      2,
+      1
+    ],
+    "playerTotal": 20,
+    "computerRolls": [
+      2,
+      1,
+      4,
+      5,
+      1
+    ],
+    "computerTotal": 13,
+    "winner": "player",
+    "completedAt": "2025-06-11T12:01:36.853Z"
+  },
+  {
+    "id": "4d2267fe-1d91-4256-839c-d5066338f666",
+    "playerId": "5d0bc724-5c20-4232-9f4f-2956b9a3385e",
+    "playerName": "janusz",
+    "playerRolls": [
+      1,
+      1,
+      1,
+      4,
+      3
+    ],
+    "playerTotal": 10,
+    "computerRolls": [
+      2,
+      1,
+      3,
+      5,
+      2
+    ],
+    "computerTotal": 13,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:01:44.999Z"
+  },
+  {
+    "id": "f5ed8d4f-81bc-4609-9f64-65a47b6342a8",
+    "playerId": "5d0bc724-5c20-4232-9f4f-2956b9a3385e",
+    "playerName": "janusz",
+    "playerRolls": [
+      4,
+      2,
+      6,
+      1,
+      6
+    ],
+    "playerTotal": 19,
+    "computerRolls": [
+      4,
+      2,
+      4,
+      6,
+      3
+    ],
+    "computerTotal": 19,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:01:54.131Z"
+  },
+  {
+    "id": "5b3d7091-c569-49ec-a4a3-43200fc7f3b2",
+    "playerId": "5d0bc724-5c20-4232-9f4f-2956b9a3385e",
+    "playerName": "janusz",
+    "playerRolls": [
+      5,
+      5,
+      1,
+      2,
+      3
+    ],
+    "playerTotal": 16,
+    "computerRolls": [
+      3,
+      3,
+      3,
+      5,
+      4
+    ],
+    "computerTotal": 18,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:01:59.571Z"
+  },
+  {
+    "id": "faef0fa1-2eb5-42d2-b8ec-8fb900596de5",
+    "playerId": "1ced897b-6257-4569-9ea5-922c263296ad",
+    "playerName": "tigerbonzo",
+    "playerRolls": [
+      5,
+      2,
+      3,
+      3,
+      2
+    ],
+    "playerTotal": 15,
+    "computerRolls": [
+      6,
+      1,
+      2,
+      3,
+      4
+    ],
+    "computerTotal": 16,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:06:05.176Z"
+  },
+  {
+    "id": "18b117fc-c90c-4e54-aa68-125beba70c27",
+    "playerId": "1ced897b-6257-4569-9ea5-922c263296ad",
+    "playerName": "tigerbonzo",
+    "playerRolls": [
+      6,
+      1,
+      6,
+      3,
+      4
+    ],
+    "playerTotal": 20,
+    "computerRolls": [
+      4,
+      3,
+      5,
+      6,
+      4
+    ],
+    "computerTotal": 22,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:06:13.035Z"
+  },
+  {
+    "id": "c1828a8d-88a6-4cfd-a382-aef9baf3c55b",
+    "playerId": "1ced897b-6257-4569-9ea5-922c263296ad",
+    "playerName": "tigerbonzo",
+    "playerRolls": [
+      3,
+      1,
+      5,
+      5,
+      3
+    ],
+    "playerTotal": 17,
+    "computerRolls": [
+      1,
+      3,
+      3,
+      6,
+      2
+    ],
+    "computerTotal": 15,
+    "winner": "player",
+    "completedAt": "2025-06-11T12:06:18.578Z"
+  },
+  {
+    "id": "b711baba-d343-4ec1-b0c0-cc393424f0a8",
+    "playerId": "1ced897b-6257-4569-9ea5-922c263296ad",
+    "playerName": "tigerbonzo",
+    "playerRolls": [
+      4,
+      6,
+      2,
+      2,
+      6
+    ],
+    "playerTotal": 20,
+    "computerRolls": [
+      4,
+      3,
+      5,
+      4,
+      1
+    ],
+    "computerTotal": 17,
+    "winner": "player",
+    "completedAt": "2025-06-11T12:06:23.924Z"
+  },
+  {
+    "id": "2da868f6-489d-4d90-815b-1254e7cac6b3",
+    "playerId": "1ced897b-6257-4569-9ea5-922c263296ad",
+    "playerName": "tigerbonzo",
+    "playerRolls": [
+      2,
+      6,
+      6,
+      3,
+      3
+    ],
+    "playerTotal": 20,
+    "computerRolls": [
+      3,
+      1,
+      6,
+      2,
+      5
+    ],
+    "computerTotal": 17,
+    "winner": "player",
+    "completedAt": "2025-06-11T12:06:28.078Z"
+  },
+  {
+    "id": "6e22fca8-32bc-424e-b328-00db4cb1a40b",
+    "playerId": "1ced897b-6257-4569-9ea5-922c263296ad",
+    "playerName": "tigerbonzo",
+    "playerRolls": [
+      1,
+      5,
+      3,
+      6,
+      4
+    ],
+    "playerTotal": 19,
+    "computerRolls": [
+      4,
+      5,
+      5,
+      4,
+      1
+    ],
+    "computerTotal": 19,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:06:33.681Z"
+  },
+  {
+    "id": "143640a1-a0a9-4ff2-8efe-e948a92f35e5",
+    "playerId": "1ced897b-6257-4569-9ea5-922c263296ad",
+    "playerName": "tigerbonzo",
+    "playerRolls": [
+      2,
+      3,
+      5,
+      5,
+      3
+    ],
+    "playerTotal": 18,
+    "computerRolls": [
+      5,
+      3,
+      4,
+      3,
+      5
+    ],
+    "computerTotal": 20,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:06:38.469Z"
+  },
+  {
+    "id": "8093813d-9472-42d1-836a-32b9495d7ff5",
+    "playerId": "1ced897b-6257-4569-9ea5-922c263296ad",
+    "playerName": "tigerbonzo",
+    "playerRolls": [
+      1,
+      4,
+      4,
+      3,
+      2
+    ],
+    "playerTotal": 14,
+    "computerRolls": [
+      2,
+      6,
+      3,
+      2,
+      1
+    ],
+    "computerTotal": 14,
+    "winner": "computer",
+    "completedAt": "2025-06-11T12:06:43.360Z"
+  }
+]
